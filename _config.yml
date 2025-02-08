@@ -1,12 +1,13 @@
 # Site settings
-title: Ahmed Harhash
-description: Personal Profile
+title: Abdelrahman Gabr's Resume
+description: Personal Profile of Abdelrahman Gabr
 
 # User settings
-username: Ahmed Harhash
-user_title: Software Engineer
-email: email@lacentix.me
-linkedin_username: lacentix
-github_username:  lacentix
+username: Abdelrahman Gabr
+user_title: Computer Engineering Student
+email: Abdelrahman_Gabr@tutanota.com
+
+linkedin_username: agabr1
+github_username: Gabrcodes
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
