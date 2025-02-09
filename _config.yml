@@ -1,3 +1,6 @@
+baseurl: ""    # Make sure this is empty
+url: "https://gabr.kremzein.com"  # Your custom domain URL
+
 # Site settings
 title: Abdelrahman Gabr's Resume
 description: Personal Profile of Abdelrahman Gabr
